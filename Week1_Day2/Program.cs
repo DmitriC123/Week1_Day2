@@ -25,12 +25,18 @@ namespace Week1_Day2
             Console.WriteLine(number);
             Console.WriteLine(partialNum);
             Console.WriteLine(someNumber);
+            
+            // + adds two operands
+            // * multiplies both operands 
+            // / divides one operand by another
+            // % - modulus - divides and checks remainder
+            // ++ increments operator by one and is used for ints
+            // -- Decrements - decreases  value by one
+            // == checks if the values of two operands are equal
+                // if they are, returns bool true
+            // != checks if the values of two operands are not equal
 
-
-
-
-
-
+             
         }
     }
 }
